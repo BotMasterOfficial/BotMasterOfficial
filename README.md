@@ -7,6 +7,7 @@
 
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=BotMasterOfficial&color=blue&style=flat-square&label=Profile+Views" /></p>
+<p align="center"><img src="https://img.shields.io/github/followers/BotMasterOfficial.svg?style=social&label=Follow&maxAge=9999999" /></p>
 <p align="center"><a href="https://github.com/BotMasterOfficial"><img src="https://github-readme-stats.vercel.app/api?username=BotMasterOfficial&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/BotMasterOfficial"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BotMasterOfficial&theme=radical&layout=compact"></a></p> 
 
